@@ -73,3 +73,7 @@ d29e1dd945fb   nginx     "/docker-entrypoint.…"   50 seconds ago   Up 50 secon
 
 **docker rm mon_nginx** : mon_nginx
 
+**Exo 6**
+
+
+![screen](image.png)
