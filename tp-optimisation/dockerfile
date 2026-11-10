@@ -7,5 +7,5 @@ RUN apk update && apk add --no-cache build-base ca-certificates
 EXPOSE 3000 4000 5000
 ENV NODE_ENV=development
 RUN npm run build
-USER root
+USER node
 CMD ["node", "server.js"]
